@@ -6,7 +6,12 @@ This repository houses the files for the CS665 final project.
 
 This database is for a music and podcast library, similar to Spotify or Apple Music.
 
-## Building and Running via Docker
+## Makefile Commands
+
+Requirements:
+* make
+* docker
+* mysqldump
 
 Build:  
 ```shell
