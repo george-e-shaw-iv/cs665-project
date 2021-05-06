@@ -23,6 +23,11 @@ Run:
 make run
 ```
 
+Seed:
+```shell
+make seed
+```
+
 ## ER Diagram
 
 ![ER Diagram](diagram.png)
