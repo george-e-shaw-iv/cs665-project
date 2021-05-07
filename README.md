@@ -28,6 +28,11 @@ Seed:
 make seed
 ```
 
+## Common Queries
+
+See the `queries` folder for commonly used queries. Just change the variable at the top of
+each file for the user ID you are interested in.
+
 ## ER Diagram
 
 ![ER Diagram](diagram.png)
